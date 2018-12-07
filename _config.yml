@@ -1,7 +1,7 @@
 # Site settings
 title: Aoer's Blog  
 SEOTitle: Aoer's Blog  
-header-img: img/home-bg.jpg
+header-img: https://aoer945.oss-cn-shanghai.aliyuncs.com/title.jpg   #img/home-bg.jpg
 email: wqcworkuse@qq.com
 description: ""
 keyword: ""
