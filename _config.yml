@@ -1,6 +1,6 @@
 # Site settings
-title: Aoer's Blog  
-SEOTitle: Aoer's Blog  
+title: Nizi's Blog  
+SEOTitle: Nizi  
 header-img: img/titleimg.jpg
 email: wqcworkuse@qq.com
 description: ""
@@ -14,9 +14,9 @@ baseurl: "/Nothing2Fear.github.io"         # for example, '/blog' if your blog h
 RSS: false
 weibo_username:     wqc
 zhihu_username:     wqc
-github_username:    wqc
+github_username:    Nothing2Fear
 #twitter_username:  wqc
-facebook_username:  wqc
+#facebook_username:  wqc
 
 
 
